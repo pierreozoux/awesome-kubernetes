@@ -279,6 +279,7 @@ Related Projects
 
 * [CoreOS Tectonic](https://tectonic.com)
 * [OpenShift](https://www.openshift.com/)
+* [Heptio](https://www.heptio.com/) - Enterprise support, training and consulting
 
 ## PaaS Providers
 
